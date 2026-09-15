@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou a Maria Bianca 👋
 
-<!--
-**MariaBiancabp/MariaBiancabp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Quality Assurance | QA Júnior
 
-Here are some ideas to get you started:
+Sou profissional em transição de carreira para a área de Qualidade de Software, com foco em testes funcionais, documentação de testes, identificação de riscos e experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente desenvolvo projetos práticos de QA, aplicando conceitos de planejamento, criação e execução de cenários de teste, registro de defeitos e documentação de evidências.
+
+## 🧪 Conhecimentos
+
+- Testes funcionais
+- Testes exploratórios
+- Criação de cenários e casos de teste
+- Reporte e acompanhamento de bugs
+- Jira
+- Zephyr
+- Metodologias Ágeis
+
+## 📂 Projetos de QA
+
+Em breve, aqui estarão meus projetos práticos de Quality Assurance.
+
+## 📚 Atualmente estudando
+
+- Quality Assurance
+- Testes de API
+- Postman
+- Automação de testes
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/maria-bianca/
+- E-mail: Bianca.pecanha@yahoo.com.br
